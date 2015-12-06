@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "repository": "",
+  "description": "",
+  "main": "./_build/ml/main.js",
+  "version": "0.0.0",
+  "engines": {
+    "atom": ">=1.2.0"
+  },
+  "devDependencies": {
+    "atom-ocaml-bindings": "0.1.0"
+  }
+}
