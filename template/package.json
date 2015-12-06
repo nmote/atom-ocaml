@@ -8,6 +8,6 @@
     "atom": ">=1.2.0"
   },
   "devDependencies": {
-    "atom-ocaml-bindings": "0.1.0"
+    "atom-ocaml-bindings": "0.0.x"
   }
 }
