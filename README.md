@@ -19,5 +19,5 @@ From there, simply write your OCaml code, run `make`, and restart Atom.
 
 ### See also
 
-`atom-ocaml-bindings` (TODO add link once published), a package which provides
-easy access to Atom's APIs from OCaml.
+[`atom-ocaml-bindings`](https://www.npmjs.com/package/atom-ocaml-bindings), a
+package which provides easy access to Atom's APIs from OCaml.
