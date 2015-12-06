@@ -2,7 +2,7 @@
   "name": "atom-ocaml",
   "repository": "https://github.com/nmote/atom-ocaml",
   "description": "Provides a template for authoring Atom packages in OCaml",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "bin": {
     "atom-ocaml-init": "bin/init.rb"
   }
