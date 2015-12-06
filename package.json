@@ -1,7 +1,7 @@
 {
   "name": "atom-ocaml",
   "description": "Provides a template for authoring Atom packages in OCaml",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "bin": {
     "atom-ocaml-init": "bin/init.rb"
   }
